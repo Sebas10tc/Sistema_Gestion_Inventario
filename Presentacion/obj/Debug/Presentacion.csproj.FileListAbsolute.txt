@@ -1,0 +1,131 @@
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmPrincipal.resources
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Datos.dll
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Negocio.dll
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Datos.pdb
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionUsuarios.resources
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmMenu.resources
+C:\Users\jerem\source\repos\FSI_TF\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Presentacion.exe.config
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Presentacion.exe
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Presentacion.pdb
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Datos.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\EntityFramework.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Negocio.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Datos.pdb
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Datos.dll.config
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\Negocio.pdb
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\EntityFramework.xml
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionUsuarios.resources
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmMenu.resources
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmPrincipal.resources
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.exe
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.pdb
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionClientes.resources
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionPedidos.resources
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionMateriales.resources
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionProductos.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Datos.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Negocio.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Datos.pdb
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionClientes.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionMateriales.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionPedidos.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionProductos.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionUsuarios.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmMenu.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmPrincipal.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.FrmDetallePedidos.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Presentacion\obj\Debug\Presentacion.pdb
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Presentacion.exe
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Presentacion.pdb
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Datos.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\EntityFramework.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Negocio.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Datos.pdb
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Datos.dll.config
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\Negocio.pdb
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\EntityFramework.xml
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmDetalleMaterial.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionClientes.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionMateriales.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionPedidos.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionProductos.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionUsuarios.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmMenu.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmPrincipal.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.FrmDetallePedidos.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.exe
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Datos.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmDetalleMaterial.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionClientes.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionMateriales.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionPedidos.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionProductos.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmGestionUsuarios.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmMenu.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Forms.FrmPrincipal.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.FrmDetallePedidos.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Presentacion\obj\Debug\Presentacion.pdb
