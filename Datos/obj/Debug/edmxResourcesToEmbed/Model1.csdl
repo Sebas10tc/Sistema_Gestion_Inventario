@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FSI_TFModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="FSI_TFEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Almacen" EntityType="FSI_TFModel.Almacen" />
+    <EntitySet Name="Cliente" EntityType="FSI_TFModel.Cliente" />
+    <EntitySet Name="DetalleMaterialProducto" EntityType="FSI_TFModel.DetalleMaterialProducto" />
+    <EntitySet Name="DetallePedido" EntityType="FSI_TFModel.DetallePedido" />
+    <EntitySet Name="Material" EntityType="FSI_TFModel.Material" />
+    <EntitySet Name="MetodoPago" EntityType="FSI_TFModel.MetodoPago" />
+    <EntitySet Name="Pedido" EntityType="FSI_TFModel.Pedido" />
+    <EntitySet Name="Producto" EntityType="FSI_TFModel.Producto" />
+    <EntitySet Name="Rol" EntityType="FSI_TFModel.Rol" />
+    <EntitySet Name="Usuario" EntityType="FSI_TFModel.Usuario" />
+    <AssociationSet Name="Material_almacen" Association="FSI_TFModel.Material_almacen">
+      <End Role="Almacen" EntitySet="Almacen" />
+      <End Role="Material" EntitySet="Material" />
+    </AssociationSet>
+    <AssociationSet Name="Pedido_cliente" Association="FSI_TFModel.Pedido_cliente">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Pedido" EntitySet="Pedido" />
+    </AssociationSet>
+    <AssociationSet Name="DetalleMaterialProducto_material" Association="FSI_TFModel.DetalleMaterialProducto_material">
+      <End Role="Material" EntitySet="Material" />
+      <End Role="DetalleMaterialProducto" EntitySet="DetalleMaterialProducto" />
+    </AssociationSet>
+    <AssociationSet Name="DetalleMaterialProducto_producto" Association="FSI_TFModel.DetalleMaterialProducto_producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="DetalleMaterialProducto" EntitySet="DetalleMaterialProducto" />
+    </AssociationSet>
+    <AssociationSet Name="DetallePedido_pedido" Association="FSI_TFModel.DetallePedido_pedido">
+      <End Role="Pedido" EntitySet="Pedido" />
+      <End Role="DetallePedido" EntitySet="DetallePedido" />
+    </AssociationSet>
+    <AssociationSet Name="DetallePedido_producto" Association="FSI_TFModel.DetallePedido_producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="DetallePedido" EntitySet="DetallePedido" />
+    </AssociationSet>
+    <AssociationSet Name="Pedido_metodoPago" Association="FSI_TFModel.Pedido_metodoPago">
+      <End Role="MetodoPago" EntitySet="MetodoPago" />
+      <End Role="Pedido" EntitySet="Pedido" />
+    </AssociationSet>
+    <AssociationSet Name="Usuario_rol" Association="FSI_TFModel.Usuario_rol">
+      <End Role="Rol" EntitySet="Rol" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Almacen">
+    <Key>
+      <PropertyRef Name="id_almacen" />
+    </Key>
+    <Property Name="id_almacen" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="ubicacion" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="capacidad" Type="Int32" Nullable="false" />
+    <Property Name="area" Type="Decimal" Nullable="false" Precision="6" Scale="2" />
+    <Property Name="costoMensual" Type="Decimal" Nullable="false" Precision="6" Scale="2" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Material" Relationship="FSI_TFModel.Material_almacen" FromRole="Almacen" ToRole="Material" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="id_cliente" />
+    </Key>
+    <Property Name="id_cliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dni" Type="Int32" Nullable="false" />
+    <Property Name="nombres" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="apellidos" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="telefono" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Pedido" Relationship="FSI_TFModel.Pedido_cliente" FromRole="Cliente" ToRole="Pedido" />
+  </EntityType>
+  <EntityType Name="DetalleMaterialProducto">
+    <Key>
+      <PropertyRef Name="id_detalleMaterialProducto" />
+    </Key>
+    <Property Name="id_detalleMaterialProducto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_material" Type="Int32" Nullable="false" />
+    <Property Name="id_producto" Type="Int32" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Material" Relationship="FSI_TFModel.DetalleMaterialProducto_material" FromRole="DetalleMaterialProducto" ToRole="Material" />
+    <NavigationProperty Name="Producto" Relationship="FSI_TFModel.DetalleMaterialProducto_producto" FromRole="DetalleMaterialProducto" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="DetallePedido">
+    <Key>
+      <PropertyRef Name="id_detallePedido" />
+    </Key>
+    <Property Name="id_detallePedido" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_pedido" Type="Int32" Nullable="false" />
+    <Property Name="id_producto" Type="Int32" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <Property Name="precioProducto" Type="Decimal" Nullable="false" Precision="5" Scale="2" />
+    <Property Name="total" Type="Decimal" Nullable="false" Precision="7" Scale="2" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Pedido" Relationship="FSI_TFModel.DetallePedido_pedido" FromRole="DetallePedido" ToRole="Pedido" />
+    <NavigationProperty Name="Producto" Relationship="FSI_TFModel.DetallePedido_producto" FromRole="DetallePedido" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Material">
+    <Key>
+      <PropertyRef Name="id_material" />
+    </Key>
+    <Property Name="id_material" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="color" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="stock" Type="Int32" Nullable="false" />
+    <Property Name="id_almacen" Type="Int32" Nullable="false" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Almacen" Relationship="FSI_TFModel.Material_almacen" FromRole="Material" ToRole="Almacen" />
+    <NavigationProperty Name="DetalleMaterialProducto" Relationship="FSI_TFModel.DetalleMaterialProducto_material" FromRole="Material" ToRole="DetalleMaterialProducto" />
+  </EntityType>
+  <EntityType Name="MetodoPago">
+    <Key>
+      <PropertyRef Name="id_metodoPago" />
+    </Key>
+    <Property Name="id_metodoPago" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="descripcion" Type="String" MaxLength="75" FixedLength="false" Unicode="false" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Pedido" Relationship="FSI_TFModel.Pedido_metodoPago" FromRole="MetodoPago" ToRole="Pedido" />
+  </EntityType>
+  <EntityType Name="Pedido">
+    <Key>
+      <PropertyRef Name="id_pedido" />
+    </Key>
+    <Property Name="id_pedido" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_cliente" Type="Int32" Nullable="false" />
+    <Property Name="total" Type="Decimal" Nullable="false" Precision="7" Scale="2" />
+    <Property Name="descripcion" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="id_metodoPago" Type="Int32" Nullable="false" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Cliente" Relationship="FSI_TFModel.Pedido_cliente" FromRole="Pedido" ToRole="Cliente" />
+    <NavigationProperty Name="DetallePedido" Relationship="FSI_TFModel.DetallePedido_pedido" FromRole="Pedido" ToRole="DetallePedido" />
+    <NavigationProperty Name="MetodoPago" Relationship="FSI_TFModel.Pedido_metodoPago" FromRole="Pedido" ToRole="MetodoPago" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="id_producto" />
+    </Key>
+    <Property Name="id_producto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="stock" Type="Int32" Nullable="false" />
+    <Property Name="precio" Type="Decimal" Nullable="false" Precision="5" Scale="2" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="DetalleMaterialProducto" Relationship="FSI_TFModel.DetalleMaterialProducto_producto" FromRole="Producto" ToRole="DetalleMaterialProducto" />
+    <NavigationProperty Name="DetallePedido" Relationship="FSI_TFModel.DetallePedido_producto" FromRole="Producto" ToRole="DetallePedido" />
+  </EntityType>
+  <EntityType Name="Rol">
+    <Key>
+      <PropertyRef Name="id_rol" />
+    </Key>
+    <Property Name="id_rol" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="descripcion" Type="String" Nullable="false" MaxLength="75" FixedLength="false" Unicode="false" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updateBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Usuario" Relationship="FSI_TFModel.Usuario_rol" FromRole="Rol" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="id_usuario" />
+    </Key>
+    <Property Name="id_usuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" Nullable="false" MaxLength="24" FixedLength="false" Unicode="false" />
+    <Property Name="nombres" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="apellidos" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="correo" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="id_rol" Type="Int32" Nullable="false" />
+    <Property Name="createdBy" Type="Int32" Nullable="false" />
+    <Property Name="createDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="updatedBy" Type="Int32" Nullable="false" />
+    <Property Name="updateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Rol" Relationship="FSI_TFModel.Usuario_rol" FromRole="Usuario" ToRole="Rol" />
+  </EntityType>
+  <Association Name="Material_almacen">
+    <End Type="FSI_TFModel.Almacen" Role="Almacen" Multiplicity="1" />
+    <End Type="FSI_TFModel.Material" Role="Material" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Almacen">
+        <PropertyRef Name="id_almacen" />
+      </Principal>
+      <Dependent Role="Material">
+        <PropertyRef Name="id_almacen" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Pedido_cliente">
+    <End Type="FSI_TFModel.Cliente" Role="Cliente" Multiplicity="1" />
+    <End Type="FSI_TFModel.Pedido" Role="Pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="id_cliente" />
+      </Principal>
+      <Dependent Role="Pedido">
+        <PropertyRef Name="id_cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DetalleMaterialProducto_material">
+    <End Type="FSI_TFModel.Material" Role="Material" Multiplicity="1" />
+    <End Type="FSI_TFModel.DetalleMaterialProducto" Role="DetalleMaterialProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Material">
+        <PropertyRef Name="id_material" />
+      </Principal>
+      <Dependent Role="DetalleMaterialProducto">
+        <PropertyRef Name="id_material" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DetalleMaterialProducto_producto">
+    <End Type="FSI_TFModel.Producto" Role="Producto" Multiplicity="1" />
+    <End Type="FSI_TFModel.DetalleMaterialProducto" Role="DetalleMaterialProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="id_producto" />
+      </Principal>
+      <Dependent Role="DetalleMaterialProducto">
+        <PropertyRef Name="id_producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DetallePedido_pedido">
+    <End Type="FSI_TFModel.Pedido" Role="Pedido" Multiplicity="1" />
+    <End Type="FSI_TFModel.DetallePedido" Role="DetallePedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pedido">
+        <PropertyRef Name="id_pedido" />
+      </Principal>
+      <Dependent Role="DetallePedido">
+        <PropertyRef Name="id_pedido" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DetallePedido_producto">
+    <End Type="FSI_TFModel.Producto" Role="Producto" Multiplicity="1" />
+    <End Type="FSI_TFModel.DetallePedido" Role="DetallePedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="id_producto" />
+      </Principal>
+      <Dependent Role="DetallePedido">
+        <PropertyRef Name="id_producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Pedido_metodoPago">
+    <End Type="FSI_TFModel.MetodoPago" Role="MetodoPago" Multiplicity="1" />
+    <End Type="FSI_TFModel.Pedido" Role="Pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MetodoPago">
+        <PropertyRef Name="id_metodoPago" />
+      </Principal>
+      <Dependent Role="Pedido">
+        <PropertyRef Name="id_metodoPago" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Usuario_rol">
+    <End Type="FSI_TFModel.Rol" Role="Rol" Multiplicity="1" />
+    <End Type="FSI_TFModel.Usuario" Role="Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rol">
+        <PropertyRef Name="id_rol" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="id_rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

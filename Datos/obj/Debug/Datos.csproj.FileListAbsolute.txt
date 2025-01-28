@@ -1,0 +1,60 @@
+C:\Users\jerem\source\repos\FSI_TF\Datos\bin\Debug\Datos.dll.config
+C:\Users\jerem\source\repos\FSI_TF\Datos\bin\Debug\Datos.dll
+C:\Users\jerem\source\repos\FSI_TF\Datos\bin\Debug\Datos.pdb
+C:\Users\jerem\source\repos\FSI_TF\Datos\bin\Debug\EntityFramework.dll
+C:\Users\jerem\source\repos\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jerem\source\repos\FSI_TF\Datos\bin\Debug\EntityFramework.xml
+C:\Users\jerem\source\repos\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jerem\source\repos\FSI_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\FSI_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\FSI_TF\Datos\obj\Debug\Datos.dll
+C:\Users\jerem\source\repos\FSI_TF\Datos\obj\Debug\Datos.pdb
+C:\Users\jerem\source\repos\FSI_TF\Datos\obj\Debug\Datos.csproj.Up2Date
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\bin\Debug\Datos.dll.config
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\bin\Debug\Datos.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\bin\Debug\Datos.pdb
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\bin\Debug\EntityFramework.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\bin\Debug\EntityFramework.xml
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\obj\Debug\Datos.dll
+D:\UPC\5  CICLO\Fundamentos de Sistemas de Información\FSI_TF_0.1\FSI_TF\Datos\obj\Debug\Datos.pdb
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\bin\Debug\Datos.dll.config
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\bin\Debug\Datos.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\bin\Debug\Datos.pdb
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\bin\Debug\EntityFramework.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\bin\Debug\EntityFramework.xml
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\obj\Debug\Datos.dll
+C:\Users\jerem\Downloads\Descargas Edge\UPC\Fundamentos de Sistemas de Información\FSI_TF_0.5\FSI_TF\Datos\obj\Debug\Datos.pdb
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\bin\Debug\Datos.dll.config
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\bin\Debug\Datos.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\bin\Debug\Datos.pdb
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\bin\Debug\EntityFramework.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\bin\Debug\EntityFramework.xml
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\obj\Debug\Datos.dll
+D:\Franco\Trabajos\5to ciclo\Fundamentos de sistemas de información\Trabajo Final\V3\FSI_TF\Datos\obj\Debug\Datos.pdb
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\bin\Debug\Datos.dll.config
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\bin\Debug\Datos.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\bin\Debug\Datos.pdb
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\obj\Debug\Datos.dll
+C:\Users\Sebastian\Downloads\FSI_TFDetalleMat\FSI_TF\Datos\obj\Debug\Datos.pdb

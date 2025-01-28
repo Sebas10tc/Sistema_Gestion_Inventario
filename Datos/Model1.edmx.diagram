@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d4df1c1f187c4dd892bd8c2a4c7285d1" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="FSI_TFModel.Almacen" Width="1.5" PointX="5.75" PointY="6" />
+        <EntityTypeShape EntityType="FSI_TFModel.Cliente" Width="1.5" PointX="0.75" PointY="1.25" />
+        <EntityTypeShape EntityType="FSI_TFModel.DetalleMaterialProducto" Width="1.5" PointX="10.25" PointY="5.75" />
+        <EntityTypeShape EntityType="FSI_TFModel.DetallePedido" Width="1.5" PointX="5.25" PointY="1.125" />
+        <EntityTypeShape EntityType="FSI_TFModel.Material" Width="1.5" PointX="8" PointY="6" />
+        <EntityTypeShape EntityType="FSI_TFModel.MetodoPago" Width="1.5" PointX="0.75" PointY="5.5" />
+        <EntityTypeShape EntityType="FSI_TFModel.Pedido" Width="1.5" PointX="3" PointY="1" />
+        <EntityTypeShape EntityType="FSI_TFModel.Producto" Width="1.5" PointX="3" PointY="5.25" />
+        <EntityTypeShape EntityType="FSI_TFModel.Rol" Width="1.5" PointX="7.75" PointY="1.375" />
+        <EntityTypeShape EntityType="FSI_TFModel.Usuario" Width="1.5" PointX="10" PointY="1" />
+        <AssociationConnector Association="FSI_TFModel.Material_almacen" />
+        <AssociationConnector Association="FSI_TFModel.Pedido_cliente" />
+        <AssociationConnector Association="FSI_TFModel.DetalleMaterialProducto_material" />
+        <AssociationConnector Association="FSI_TFModel.DetalleMaterialProducto_producto" />
+        <AssociationConnector Association="FSI_TFModel.DetallePedido_pedido" />
+        <AssociationConnector Association="FSI_TFModel.DetallePedido_producto" />
+        <AssociationConnector Association="FSI_TFModel.Pedido_metodoPago" />
+        <AssociationConnector Association="FSI_TFModel.Usuario_rol" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
